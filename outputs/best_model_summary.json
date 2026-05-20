@@ -1,0 +1,8 @@
+{
+  "best_model": "Logistic Regression",
+  "test_accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "model_file": "models/best_titanic_survival_model.joblib"
+}
